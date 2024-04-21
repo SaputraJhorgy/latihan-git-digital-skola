@@ -1,6 +1,3 @@
-# latihan-git-digital-skola
-
-Latihan Belajar Git Digital Skola
 Crystal Maiden
 Puck
 Strom Spirit
